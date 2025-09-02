@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react learining series",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squid-suraj/react.git"
+  },
+  "keywords": [],
+  "author": "suraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squid-suraj/react/issues"
+  },
+  "homepage": "https://github.com/squid-suraj/react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
